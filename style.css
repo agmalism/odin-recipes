@@ -1,30 +1,21 @@
 body {
-    margin: auto 80px;
+    font
+    margin-bottom: 16px;
     max-width: 1200px;
     color: #0a0a0a;
-    
-}
-
-.container {
-    display: inline;
-    padding: 8px;
-}
-
-.card {
-    border: solid #0a0a0a 2px;
-    margin: 0 auto;
-}
-
-h1 {
-    text-align: center;
-    font-size: 28px;
-}
-
-h2 {
-    font-size: 16px;
 }
 
 img {
     height: 50%;
     width: 250px;
+}
+
+.card {
+    width: 600px;
+    background-color: azure;
+    padding: 16px;
+}
+
+.rendang {
+    
 }
